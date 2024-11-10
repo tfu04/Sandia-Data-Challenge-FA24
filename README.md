@@ -1,4 +1,4 @@
-Please extract EEG_Measurements.zip to root directory。
+** Please extract EEG_Measurements.zip to root directory.
 
 ModelGenerating.py:
 Generate the model for prediction, based on data in EEG_measurements that are related to Spanish or English. The model will be stored in 'Spanish Data' folder and 'Non-Spanish Data' folder.
